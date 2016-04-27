@@ -1,0 +1,4 @@
+# Switch in and out of command-line apps with one keystroke: Ctrl-Z
+#https://github.com/Peeja/ctrl-zsh
+# Can manage everything e.g., other person's zshrc
+# zplug "tcnksm/docker-alias", of:zshrc
